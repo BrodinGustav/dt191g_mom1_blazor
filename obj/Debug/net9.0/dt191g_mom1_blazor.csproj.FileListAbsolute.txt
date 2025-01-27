@@ -36,3 +36,4 @@ C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\obj\Debug\net9.0\dt191g_mom1_blazo
 C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\obj\Debug\net9.0\dt191g_mom1_blazor.genruntimeconfig.cache
 C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\obj\Debug\net9.0\ref\dt191g_mom1_blazor.dll
 C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\obj\Debug\net9.0\dt191g_mom1_blazor.sourcelink.json
+C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\bin\Debug\net9.0\sample.json
