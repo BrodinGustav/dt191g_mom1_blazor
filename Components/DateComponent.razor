@@ -1,0 +1,12 @@
+@* DateComponent.razor *@
+<div>
+    <h3>Dagens datum är:</h3>
+
+    <!--Skriver ut dagens datum-->
+    <p>@currentDate</p>
+</div>
+
+<!--Hämtar in dagens datum-->
+@code {
+    private string currentDate = DateTime.Now.ToString("yyyy-MM-dd");
+}

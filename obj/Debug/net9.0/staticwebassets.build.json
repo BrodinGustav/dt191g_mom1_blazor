@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UoirSeB+/sODICBP2X7RbJModtO8Hzq/dNHr1fUfA3A=",
+  "Hash": "vPb4wZ3Ijr+TbKzzF8ZB11n6xXrYPzhhQsQ+op+EzwU=",
   "Source": "dt191g_mom1_blazor(2)",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "de9iyw6ff1",
-      "Integrity": "6/2zhSSTsAq+UCOwqxU9Tl5jb5NTDGFGktDZqgyrHzM=",
+      "Fingerprint": "402h7gx1xq",
+      "Integrity": "nOR9b4uQiPiKg4GJcxoz1M6Wzq+F4QmNUrDh9pNGJJU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "5dngax2fsy",
-      "Integrity": "SSgDLThjsnx3/MMn02HcceAzVMTtfhrj+Z0I2nPW/fw=",
+      "Fingerprint": "qwd2umx29o",
+      "Integrity": "6jjT4gveRbYGalb2tb2bOfqU4tXQLR8BRCmw/b6s1Zk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\dt191g_mom1_blazor(2).pdb"
@@ -220,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "x8ypk6ay54",
-      "Integrity": "X/q8zXGTrYz0obtdM7EhfhqcjU5pvO0xihiGZ67GJSc=",
+      "Fingerprint": "5i88ffe5p8",
+      "Integrity": "DQjZ+GXPppxuSURV+MzM6EHCGyHdPgLU1ZJIBBb6VZc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\webcil\\dt191g_mom1_blazor(2).wasm"
@@ -5309,7 +5309,7 @@
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Security.Cryptography.Primitives.wasm"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\8ek1bpyi7p-de9iyw6ff1.gz",
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\8ek1bpyi7p-402h7gx1xq.gz",
       "SourceId": "dt191g_mom1_blazor(2)",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\",
@@ -5323,8 +5323,8 @@
       "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "uc8hj8o138",
-      "Integrity": "jhfDTnFjlNQolmwokU5mGFDVSQzk4MCpQitqZW0zHto=",
+      "Fingerprint": "yo6csv98ps",
+      "Integrity": "4rSSW2TT/gJ4zdU13JRYgqkzdOXxDrr3W0Q4z/DmQE0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -5645,12 +5645,12 @@
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Numerics.Vectors.wasm"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\bfiapfkgn0-x8ypk6ay54.gz",
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\bfiapfkgn0-5i88ffe5p8.gz",
       "SourceId": "dt191g_mom1_blazor(2)",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dt191g_mom1_blazor(2)#[.{fingerprint=x8ypk6ay54}]!.wasm.gz",
+      "RelativePath": "_framework/dt191g_mom1_blazor(2)#[.{fingerprint=5i88ffe5p8}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5659,8 +5659,8 @@
       "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dt191g_mom1_blazor(2).wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "0bvpmlx9rd",
-      "Integrity": "vASW4ZNbM3I136CK2zSevT4fL6EdrjKPajYWSSt0ChQ=",
+      "Fingerprint": "423u6m1tdh",
+      "Integrity": "/Jjm+SaFqTQofhp43VjK4Ko3nLtnWu45pYRbn8dxozA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dt191g_mom1_blazor(2).wasm"
@@ -7094,12 +7094,12 @@
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\WindowsBase.wasm"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\m5dyn0uvzq-5dngax2fsy.gz",
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\m5dyn0uvzq-qwd2umx29o.gz",
       "SourceId": "dt191g_mom1_blazor(2)",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dt191g_mom1_blazor(2)#[.{fingerprint=5dngax2fsy}]!.pdb.gz",
+      "RelativePath": "_framework/dt191g_mom1_blazor(2)#[.{fingerprint=qwd2umx29o}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7108,8 +7108,8 @@
       "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dt191g_mom1_blazor(2).pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "xfhbgve62u",
-      "Integrity": "DXluYC1OqHUpv3Iog1wfLaufxD2eXZqBdoPK3GKqzcE=",
+      "Fingerprint": "91a67y935z",
+      "Integrity": "TfeUtGDkGrdd6m/kK74nyOmMIojXb09NZ/2NGwBvr8U=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dt191g_mom1_blazor(2).pdb"
@@ -8941,11 +8941,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6/2zhSSTsAq+UCOwqxU9Tl5jb5NTDGFGktDZqgyrHzM=\""
+          "Value": "\"nOR9b4uQiPiKg4GJcxoz1M6Wzq+F4QmNUrDh9pNGJJU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 12:11:33 GMT"
+          "Value": "Mon, 27 Jan 2025 12:34:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8955,13 +8955,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6/2zhSSTsAq+UCOwqxU9Tl5jb5NTDGFGktDZqgyrHzM="
+          "Value": "sha256-nOR9b4uQiPiKg4GJcxoz1M6Wzq+F4QmNUrDh9pNGJJU="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\8ek1bpyi7p-de9iyw6ff1.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\8ek1bpyi7p-402h7gx1xq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8980,11 +8980,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jhfDTnFjlNQolmwokU5mGFDVSQzk4MCpQitqZW0zHto=\""
+          "Value": "\"4rSSW2TT/gJ4zdU13JRYgqkzdOXxDrr3W0Q4z/DmQE0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 12:03:56 GMT"
+          "Value": "Mon, 27 Jan 2025 12:32:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9004,19 +9004,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"6/2zhSSTsAq+UCOwqxU9Tl5jb5NTDGFGktDZqgyrHzM=\""
+          "Value": "W/\"nOR9b4uQiPiKg4GJcxoz1M6Wzq+F4QmNUrDh9pNGJJU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6/2zhSSTsAq+UCOwqxU9Tl5jb5NTDGFGktDZqgyrHzM="
+          "Value": "sha256-nOR9b4uQiPiKg4GJcxoz1M6Wzq+F4QmNUrDh9pNGJJU="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\8ek1bpyi7p-de9iyw6ff1.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\8ek1bpyi7p-402h7gx1xq.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9033,11 +9033,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jhfDTnFjlNQolmwokU5mGFDVSQzk4MCpQitqZW0zHto=\""
+          "Value": "\"4rSSW2TT/gJ4zdU13JRYgqkzdOXxDrr3W0Q4z/DmQE0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 12:03:56 GMT"
+          "Value": "Mon, 27 Jan 2025 12:32:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9055,7 +9055,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jhfDTnFjlNQolmwokU5mGFDVSQzk4MCpQitqZW0zHto="
+          "Value": "sha256-4rSSW2TT/gJ4zdU13JRYgqkzdOXxDrr3W0Q4z/DmQE0="
         }
       ]
     },
@@ -10985,305 +10985,7 @@
       ]
     },
     {
-      "Route": "_framework/dt191g_mom1_blazor(2).5dngax2fsy.pdb",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dt191g_mom1_blazor(2).pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24768"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octect-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SSgDLThjsnx3/MMn02HcceAzVMTtfhrj+Z0I2nPW/fw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 12:11:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5dngax2fsy"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/dt191g_mom1_blazor(2).pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SSgDLThjsnx3/MMn02HcceAzVMTtfhrj+Z0I2nPW/fw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dt191g_mom1_blazor(2).5dngax2fsy.pdb",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\m5dyn0uvzq-5dngax2fsy.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0,000055407801"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "18047"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DXluYC1OqHUpv3Iog1wfLaufxD2eXZqBdoPK3GKqzcE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 12:11:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octect-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"SSgDLThjsnx3/MMn02HcceAzVMTtfhrj+Z0I2nPW/fw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5dngax2fsy"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/dt191g_mom1_blazor(2).pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SSgDLThjsnx3/MMn02HcceAzVMTtfhrj+Z0I2nPW/fw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dt191g_mom1_blazor(2).5dngax2fsy.pdb.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\m5dyn0uvzq-5dngax2fsy.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "18047"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octect-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DXluYC1OqHUpv3Iog1wfLaufxD2eXZqBdoPK3GKqzcE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 12:11:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5dngax2fsy"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/dt191g_mom1_blazor(2).pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-DXluYC1OqHUpv3Iog1wfLaufxD2eXZqBdoPK3GKqzcE="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dt191g_mom1_blazor(2).pdb",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dt191g_mom1_blazor(2).pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24768"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octect-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SSgDLThjsnx3/MMn02HcceAzVMTtfhrj+Z0I2nPW/fw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 12:11:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SSgDLThjsnx3/MMn02HcceAzVMTtfhrj+Z0I2nPW/fw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dt191g_mom1_blazor(2).pdb",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\m5dyn0uvzq-5dngax2fsy.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0,000055407801"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "18047"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DXluYC1OqHUpv3Iog1wfLaufxD2eXZqBdoPK3GKqzcE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 12:11:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octect-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"SSgDLThjsnx3/MMn02HcceAzVMTtfhrj+Z0I2nPW/fw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SSgDLThjsnx3/MMn02HcceAzVMTtfhrj+Z0I2nPW/fw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dt191g_mom1_blazor(2).pdb.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\m5dyn0uvzq-5dngax2fsy.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "18047"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octect-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DXluYC1OqHUpv3Iog1wfLaufxD2eXZqBdoPK3GKqzcE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 12:11:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-DXluYC1OqHUpv3Iog1wfLaufxD2eXZqBdoPK3GKqzcE="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dt191g_mom1_blazor(2).wasm",
+      "Route": "_framework/dt191g_mom1_blazor(2).5i88ffe5p8.wasm",
       "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dt191g_mom1_blazor(2).wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -11293,7 +10995,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20757"
+          "Value": "21781"
         },
         {
           "Name": "Content-Type",
@@ -11301,148 +11003,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"X/q8zXGTrYz0obtdM7EhfhqcjU5pvO0xihiGZ67GJSc=\""
+          "Value": "\"DQjZ+GXPppxuSURV+MzM6EHCGyHdPgLU1ZJIBBb6VZc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 12:11:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-X/q8zXGTrYz0obtdM7EhfhqcjU5pvO0xihiGZ67GJSc="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dt191g_mom1_blazor(2).wasm",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\bfiapfkgn0-x8ypk6ay54.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0,000111569787"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8962"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vASW4ZNbM3I136CK2zSevT4fL6EdrjKPajYWSSt0ChQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 12:11:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"X/q8zXGTrYz0obtdM7EhfhqcjU5pvO0xihiGZ67GJSc=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-X/q8zXGTrYz0obtdM7EhfhqcjU5pvO0xihiGZ67GJSc="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dt191g_mom1_blazor(2).wasm.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\bfiapfkgn0-x8ypk6ay54.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8962"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vASW4ZNbM3I136CK2zSevT4fL6EdrjKPajYWSSt0ChQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 12:11:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-vASW4ZNbM3I136CK2zSevT4fL6EdrjKPajYWSSt0ChQ="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/dt191g_mom1_blazor(2).x8ypk6ay54.wasm",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dt191g_mom1_blazor(2).wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "20757"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"X/q8zXGTrYz0obtdM7EhfhqcjU5pvO0xihiGZ67GJSc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 12:11:31 GMT"
+          "Value": "Mon, 27 Jan 2025 12:32:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11452,7 +11017,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "x8ypk6ay54"
+          "Value": "5i88ffe5p8"
         },
         {
           "Name": "label",
@@ -11460,18 +11025,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-X/q8zXGTrYz0obtdM7EhfhqcjU5pvO0xihiGZ67GJSc="
+          "Value": "sha256-DQjZ+GXPppxuSURV+MzM6EHCGyHdPgLU1ZJIBBb6VZc="
         }
       ]
     },
     {
-      "Route": "_framework/dt191g_mom1_blazor(2).x8ypk6ay54.wasm",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\bfiapfkgn0-x8ypk6ay54.gz",
+      "Route": "_framework/dt191g_mom1_blazor(2).5i88ffe5p8.wasm",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\bfiapfkgn0-5i88ffe5p8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000111569787"
+          "Quality": "0,000108778418"
         }
       ],
       "ResponseHeaders": [
@@ -11481,15 +11046,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8962"
+          "Value": "9192"
         },
         {
           "Name": "ETag",
-          "Value": "\"vASW4ZNbM3I136CK2zSevT4fL6EdrjKPajYWSSt0ChQ=\""
+          "Value": "\"/Jjm+SaFqTQofhp43VjK4Ko3nLtnWu45pYRbn8dxozA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 12:11:33 GMT"
+          "Value": "Mon, 27 Jan 2025 12:32:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11509,13 +11074,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"X/q8zXGTrYz0obtdM7EhfhqcjU5pvO0xihiGZ67GJSc=\""
+          "Value": "W/\"DQjZ+GXPppxuSURV+MzM6EHCGyHdPgLU1ZJIBBb6VZc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "x8ypk6ay54"
+          "Value": "5i88ffe5p8"
         },
         {
           "Name": "label",
@@ -11523,13 +11088,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-X/q8zXGTrYz0obtdM7EhfhqcjU5pvO0xihiGZ67GJSc="
+          "Value": "sha256-DQjZ+GXPppxuSURV+MzM6EHCGyHdPgLU1ZJIBBb6VZc="
         }
       ]
     },
     {
-      "Route": "_framework/dt191g_mom1_blazor(2).x8ypk6ay54.wasm.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\bfiapfkgn0-x8ypk6ay54.gz",
+      "Route": "_framework/dt191g_mom1_blazor(2).5i88ffe5p8.wasm.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\bfiapfkgn0-5i88ffe5p8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11538,7 +11103,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8962"
+          "Value": "9192"
         },
         {
           "Name": "Content-Type",
@@ -11546,11 +11111,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vASW4ZNbM3I136CK2zSevT4fL6EdrjKPajYWSSt0ChQ=\""
+          "Value": "\"/Jjm+SaFqTQofhp43VjK4Ko3nLtnWu45pYRbn8dxozA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 12:11:33 GMT"
+          "Value": "Mon, 27 Jan 2025 12:32:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11568,7 +11133,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "x8ypk6ay54"
+          "Value": "5i88ffe5p8"
         },
         {
           "Name": "label",
@@ -11576,7 +11141,442 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vASW4ZNbM3I136CK2zSevT4fL6EdrjKPajYWSSt0ChQ="
+          "Value": "sha256-/Jjm+SaFqTQofhp43VjK4Ko3nLtnWu45pYRbn8dxozA="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dt191g_mom1_blazor(2).pdb",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dt191g_mom1_blazor(2).pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octect-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6jjT4gveRbYGalb2tb2bOfqU4tXQLR8BRCmw/b6s1Zk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 12:32:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6jjT4gveRbYGalb2tb2bOfqU4tXQLR8BRCmw/b6s1Zk="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dt191g_mom1_blazor(2).pdb",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\m5dyn0uvzq-qwd2umx29o.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0,000052023723"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19221"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TfeUtGDkGrdd6m/kK74nyOmMIojXb09NZ/2NGwBvr8U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 12:32:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octect-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6jjT4gveRbYGalb2tb2bOfqU4tXQLR8BRCmw/b6s1Zk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6jjT4gveRbYGalb2tb2bOfqU4tXQLR8BRCmw/b6s1Zk="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dt191g_mom1_blazor(2).pdb.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\m5dyn0uvzq-qwd2umx29o.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19221"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octect-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TfeUtGDkGrdd6m/kK74nyOmMIojXb09NZ/2NGwBvr8U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 12:32:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TfeUtGDkGrdd6m/kK74nyOmMIojXb09NZ/2NGwBvr8U="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dt191g_mom1_blazor(2).qwd2umx29o.pdb",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dt191g_mom1_blazor(2).pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octect-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6jjT4gveRbYGalb2tb2bOfqU4tXQLR8BRCmw/b6s1Zk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 12:32:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qwd2umx29o"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/dt191g_mom1_blazor(2).pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6jjT4gveRbYGalb2tb2bOfqU4tXQLR8BRCmw/b6s1Zk="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dt191g_mom1_blazor(2).qwd2umx29o.pdb",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\m5dyn0uvzq-qwd2umx29o.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0,000052023723"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19221"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TfeUtGDkGrdd6m/kK74nyOmMIojXb09NZ/2NGwBvr8U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 12:32:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octect-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6jjT4gveRbYGalb2tb2bOfqU4tXQLR8BRCmw/b6s1Zk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qwd2umx29o"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/dt191g_mom1_blazor(2).pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6jjT4gveRbYGalb2tb2bOfqU4tXQLR8BRCmw/b6s1Zk="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dt191g_mom1_blazor(2).qwd2umx29o.pdb.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\m5dyn0uvzq-qwd2umx29o.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19221"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octect-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TfeUtGDkGrdd6m/kK74nyOmMIojXb09NZ/2NGwBvr8U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 12:32:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qwd2umx29o"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/dt191g_mom1_blazor(2).pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TfeUtGDkGrdd6m/kK74nyOmMIojXb09NZ/2NGwBvr8U="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dt191g_mom1_blazor(2).wasm",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dt191g_mom1_blazor(2).wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21781"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DQjZ+GXPppxuSURV+MzM6EHCGyHdPgLU1ZJIBBb6VZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 12:32:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DQjZ+GXPppxuSURV+MzM6EHCGyHdPgLU1ZJIBBb6VZc="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dt191g_mom1_blazor(2).wasm",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\bfiapfkgn0-5i88ffe5p8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0,000108778418"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9192"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Jjm+SaFqTQofhp43VjK4Ko3nLtnWu45pYRbn8dxozA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 12:32:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"DQjZ+GXPppxuSURV+MzM6EHCGyHdPgLU1ZJIBBb6VZc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DQjZ+GXPppxuSURV+MzM6EHCGyHdPgLU1ZJIBBb6VZc="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/dt191g_mom1_blazor(2).wasm.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\bfiapfkgn0-5i88ffe5p8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9192"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Jjm+SaFqTQofhp43VjK4Ko3nLtnWu45pYRbn8dxozA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 12:32:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Jjm+SaFqTQofhp43VjK4Ko3nLtnWu45pYRbn8dxozA="
         }
       ]
     },

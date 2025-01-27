@@ -1442,11 +1442,7 @@ C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\bin\Debug\net9.0\wwwroot\_framewor
 C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\bin\Debug\net9.0\wwwroot\_framework\System.IO.MemoryMappedFiles.wy4xnf89nt.wasm.gz
 C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.izqdrfxixx.wasm.gz
 C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json
-C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\bin\Debug\net9.0\wwwroot\_framework\dt191g_mom1_blazor(2).5dngax2fsy.pdb
-C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\bin\Debug\net9.0\wwwroot\_framework\dt191g_mom1_blazor(2).x8ypk6ay54.wasm
 C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json.gz
-C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\bin\Debug\net9.0\wwwroot\_framework\dt191g_mom1_blazor(2).x8ypk6ay54.wasm.gz
-C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\bin\Debug\net9.0\wwwroot\_framework\dt191g_mom1_blazor(2).5dngax2fsy.pdb.gz
 C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\bin\Debug\net9.0\dt191g_mom1_blazor(2).staticwebassets.runtime.json
 C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\bin\Debug\net9.0\dt191g_mom1_blazor(2).staticwebassets.endpoints.json
 C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\bin\Debug\net9.0\dt191g_mom1_blazor(2).dll
@@ -2063,9 +2059,6 @@ C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\obj\Debug\net9.0\compressed\2n76di
 C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\obj\Debug\net9.0\compressed\596ihsvq4c-tjcz0u77k5.gz
 C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\obj\Debug\net9.0\compressed\bru37tvcbl-tptq2av103.gz
 C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\obj\Debug\net9.0\compressed\0myb6f6nr9-lfu7j35m59.gz
-C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\obj\Debug\net9.0\compressed\bfiapfkgn0-x8ypk6ay54.gz
-C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\obj\Debug\net9.0\compressed\m5dyn0uvzq-5dngax2fsy.gz
-C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\obj\Debug\net9.0\compressed\8ek1bpyi7p-de9iyw6ff1.gz
 C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\obj\Debug\net9.0\staticwebassets.build.json
 C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\obj\Debug\net9.0\staticwebassets.development.json
 C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -2080,3 +2073,11 @@ C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\obj\Debug\net9.0\dt191g_mom1_blazo
 C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\obj\Debug\net9.0\refint\dt191g_mom1_blazor(2).dll
 C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\obj\Debug\net9.0\dt191g_mom1_blazor(2).pdb
 C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\obj\Debug\net9.0\ref\dt191g_mom1_blazor(2).dll
+C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\obj\Debug\net9.0\dt191g_mom1_blazor(2).sourcelink.json
+C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\bin\Debug\net9.0\wwwroot\_framework\dt191g_mom1_blazor(2).qwd2umx29o.pdb
+C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\bin\Debug\net9.0\wwwroot\_framework\dt191g_mom1_blazor(2).5i88ffe5p8.wasm
+C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\bin\Debug\net9.0\wwwroot\_framework\dt191g_mom1_blazor(2).5i88ffe5p8.wasm.gz
+C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\bin\Debug\net9.0\wwwroot\_framework\dt191g_mom1_blazor(2).qwd2umx29o.pdb.gz
+C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\obj\Debug\net9.0\compressed\bfiapfkgn0-5i88ffe5p8.gz
+C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\obj\Debug\net9.0\compressed\m5dyn0uvzq-qwd2umx29o.gz
+C:\Utbildning\d191g_ASPNET\dt191g_mom1_blazor\obj\Debug\net9.0\compressed\8ek1bpyi7p-402h7gx1xq.gz
