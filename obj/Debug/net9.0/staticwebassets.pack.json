@@ -1,43 +1,59 @@
 {
   "Files": [
     {
-      "Id": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\dt191g_mom1_blazor.bundle.scp.css",
-      "PackagePath": "staticwebassets\\dt191g_mom1_blazor.1pe4esv82h.bundle.scp.css"
+      "Id": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\wwwroot\\app.css",
-      "PackagePath": "staticwebassets\\app.css"
+      "Id": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\scopedcss\\bundle\\dt191g_mom1_blazor(2).styles.css",
+      "PackagePath": "staticwebassets\\dt191g_mom1_blazor(2).styles.css"
     },
     {
-      "Id": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\wwwroot\\bootstrap\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+      "Id": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+      "Id": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
       "Id": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.dt191g_mom1_blazor.props",
-      "PackagePath": "build\\dt191g_mom1_blazor.props"
+      "Id": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.dt191g_mom1_blazor.props",
-      "PackagePath": "buildMultiTargeting\\dt191g_mom1_blazor.props"
+      "Id": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.dt191g_mom1_blazor.props",
-      "PackagePath": "buildTransitive\\dt191g_mom1_blazor.props"
+      "Id": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\wwwroot\\sample-data\\sample.json",
+      "PackagePath": "staticwebassets\\sample-data\\sample.json"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.dt191g_mom1_blazor.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.dt191g_mom1_blazor(2).props",
+      "PackagePath": "build\\dt191g_mom1_blazor(2).props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.dt191g_mom1_blazor(2).props",
+      "PackagePath": "buildMultiTargeting\\dt191g_mom1_blazor(2).props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.dt191g_mom1_blazor(2).props",
+      "PackagePath": "buildTransitive\\dt191g_mom1_blazor(2).props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.dt191g_mom1_blazor(2).Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.dt191g_mom1_blazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.dt191g_mom1_blazor(2).Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     }
   ],

@@ -1,0 +1,83 @@
+﻿@page "/json"
+@inject HttpClient Http //Används för att läsa in JSON-fil
+
+<PageTitle>Json</PageTitle>
+
+<h1>Json</h1>
+
+<!--Kontroll om data finns att hämta-->
+@if (PersonData == null)
+{
+    <p>Inga data att visa. Kontrollera serverresponsen.</p>
+}
+else
+{
+    <p><strong>Namn:</strong> @PersonData?.name</p>
+    <p><strong>Ålder:</strong> @PersonData?.age</p>
+    <p><strong>Hobbies:</strong></p>
+
+    //Loopar igenom <List> för utskrift av hobbys
+    <ul>
+        @foreach (var hobby in PersonData?.hobbies ?? new List<string>())
+        {
+            <li>@hobby</li>
+        }
+    </ul>
+}
+
+
+
+@code {
+    private Person? PersonData { get; set; } //Klass för att lagra JSON-datan
+
+    protected override async Task OnInitializedAsync()
+    {
+        //debugg
+        Console.WriteLine("OnInitializedAsync körs");
+
+        try
+        {
+
+            //Läser in filen. Hämtar filen som sträng via URL
+            string json = await Http.GetStringAsync("/sample-data/sample.json");
+
+
+            //debugg
+            Console.WriteLine(json);
+
+            //Deserialiserar JSON. Konverterar JSON-strängen till C#-modellen Person
+            PersonData = System.Text.Json.JsonSerializer.Deserialize<Person>(json);
+
+            //debugg
+            Console.WriteLine("PersonData: " + PersonData?.name);
+
+            if (PersonData == null)
+            {
+                Console.WriteLine("Deserialisering misslyckades.");
+            }
+            else
+            {
+                Console.WriteLine("Deserialisering lyckades.");
+            }
+
+            StateHasChanged();
+
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Fel vid deserialisering: {ex.Message}");
+            Console.WriteLine($"Allmänt fel: {ex.Message}");
+            Console.WriteLine($"Error: {ex.Message}");
+            Console.WriteLine($"Stack Trace: {ex.StackTrace}"); ;
+        }
+    }
+
+    //Modell för att representera strukturen av JSON-datan
+    private class Person
+    {
+        public string? name { get; set; }
+        public int? age { get; set; }
+        public List<string> hobbies { get; set; } = new();
+    }
+
+}
