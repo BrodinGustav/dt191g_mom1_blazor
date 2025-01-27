@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dt191g_mom1_blazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61f5292b5acee1030adb6c7066943f77b25a94ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+388ee614149c0ada2106e2753d7280037abbd8df")]
 [assembly: System.Reflection.AssemblyProductAttribute("dt191g_mom1_blazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dt191g_mom1_blazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
