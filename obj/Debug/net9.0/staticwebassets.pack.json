@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\dt191g_mom1_blazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\dt191g_mom1_blazor.1pe4esv82h.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.dt191g_mom1_blazor.props",
+      "PackagePath": "build\\dt191g_mom1_blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.dt191g_mom1_blazor.props",
+      "PackagePath": "buildMultiTargeting\\dt191g_mom1_blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.dt191g_mom1_blazor.props",
+      "PackagePath": "buildTransitive\\dt191g_mom1_blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.dt191g_mom1_blazor.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.dt191g_mom1_blazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
