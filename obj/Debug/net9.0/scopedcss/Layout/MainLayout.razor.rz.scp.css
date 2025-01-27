@@ -1,77 +1,39 @@
+/*Global layout */
+
 .page[b-mg77i9z9s3] {
-    position: relative;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    flex-direction: row; /* Sidomenyn och huvudinnehåll sida vid sida */
 }
 
-main[b-mg77i9z9s3] {
-    flex: 1;
-}
-
-.sidebar[b-mg77i9z9s3] {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
-}
-
-.top-row[b-mg77i9z9s3] {
-    background-color: #f7f7f7;
-    border-bottom: 1px solid #d6d5d5;
-    justify-content: flex-end;
-    height: 3.5rem;
+.main-content[b-mg77i9z9s3] {
     display: flex;
-    align-items: center;
+    margin:0 auto;
+    padding: 20px; 
+    height:50vh;
 }
 
-    .top-row[b-mg77i9z9s3]  a, .top-row[b-mg77i9z9s3]  .btn-link {
-        white-space: nowrap;
-        margin-left: 1.5rem;
-        text-decoration: none;
-    }
-
-    .top-row[b-mg77i9z9s3]  a:hover, .top-row[b-mg77i9z9s3]  .btn-link:hover {
-        text-decoration: underline;
-    }
-
-    .top-row[b-mg77i9z9s3]  a:first-child {
-        overflow: hidden;
-        text-overflow: ellipsis;
-    }
-
-@media (max-width: 640.98px) {
-    .top-row[b-mg77i9z9s3] {
-        justify-content: space-between;
-    }
-
-    .top-row[b-mg77i9z9s3]  a, .top-row[b-mg77i9z9s3]  .btn-link {
-        margin-left: 0;
-    }
+/* Innehållet */
+.content[b-mg77i9z9s3] {
+    margin-top: 20px; 
+    padding: 20px; 
+    background-color: #ffffff; 
+    border-radius: 8px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
 }
 
-@media (min-width: 641px) {
+/* Media Queries */
+@media (max-width: 768px) {
     .page[b-mg77i9z9s3] {
-        flex-direction: row;
+        flex-direction: column; 
     }
 
-    .sidebar[b-mg77i9z9s3] {
-        width: 250px;
-        height: 100vh;
-        position: sticky;
-        top: 0;
+    .main-content[b-mg77i9z9s3] {
+        margin-left: 0; 
+        padding: 10px; 
     }
 
-    .top-row[b-mg77i9z9s3] {
-        position: sticky;
-        top: 0;
-        z-index: 1;
-    }
-
-    .top-row.auth[b-mg77i9z9s3]  a:first-child {
-        flex: 1;
-        text-align: right;
-        width: 0;
-    }
-
-    .top-row[b-mg77i9z9s3], article[b-mg77i9z9s3] {
-        padding-left: 2rem !important;
-        padding-right: 1.5rem !important;
+    .content[b-mg77i9z9s3] {
+        padding: 15px; 
     }
 }

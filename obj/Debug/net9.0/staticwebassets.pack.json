@@ -9,16 +9,12 @@
       "PackagePath": "staticwebassets\\dt191g_mom1_blazor(2).styles.css"
     },
     {
+      "Id": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\wwwroot\\bars-solid.svg",
+      "PackagePath": "staticwebassets\\bars-solid.svg"
+    },
+    {
       "Id": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
-    },
-    {
-      "Id": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
-    },
-    {
-      "Id": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
       "Id": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\wwwroot\\favicon.png",

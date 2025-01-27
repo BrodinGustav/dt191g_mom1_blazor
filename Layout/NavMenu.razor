@@ -1,28 +1,27 @@
-﻿<div class="top-row ps-3 navbar navbar-dark">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="">dt191g_mom1_blazor(2)</a>
+﻿<div class="custom-navbar">
+    <div class="navbar-container">
+        <a class="navbar-brand" href="">DT191G</a>
         <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
-            <span class="navbar-toggler-icon"></span>
+            <img src="bars-solid.svg" class="navbar-toggler-icon">
         </button>
     </div>
 </div>
 
-<div class="@NavMenuCssClass nav-scrollable" @onclick="ToggleNavMenu">
-    <nav class="flex-column">
-        <div class="nav-item px-3">
+<div class="@NavMenuCssClass custom-nav" @onclick="ToggleNavMenu">
+    <nav class="nav-items">
+        <div class="nav-item">
             <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
-                <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Home
+                <span class="icon-home" aria-hidden="true"></span> Hem
             </NavLink>
         </div>
-        <div class="nav-item px-3">
+        <div class="nav-item">
             <NavLink class="nav-link" href="json">
-                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> JSON
+                <span class="icon-json" aria-hidden="true"></span> JSON
             </NavLink>
         </div>
-             <!--Länk till konvertering-sida-->
-                    <div class="nav-item px-3">
+        <div class="nav-item">
             <NavLink class="nav-link" href="konvertering">
-                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Konvertering
+                <span class="icon-conversion" aria-hidden="true"></span> Konvertering
             </NavLink>
         </div>
     </nav>
