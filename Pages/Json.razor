@@ -12,13 +12,13 @@
 }
 else
 {
-    <p><strong>Namn:</strong> @PersonData?.name</p>
-    <p><strong>Ålder:</strong> @PersonData?.age</p>
+    <p><strong>Namn:</strong> @PersonData?.Name</p>
+    <p><strong>Ålder:</strong> @PersonData?.Age</p>
     <p><strong>Hobbies:</strong></p>
 
-    //Loopar igenom <List> för utskrift av hobbys
+    //Loopar igenom <List> för utskrift av json-data gällande hobbies
     <ul>
-        @foreach (var hobby in PersonData?.hobbies ?? new List<string>())
+        @foreach (var hobby in PersonData?.Hobbies ?? new List<string>())
         {
             <li>@hobby</li>
         }
@@ -28,12 +28,13 @@ else
 
 
 @code {
-    private Person? PersonData { get; set; } //Klass för att lagra JSON-datan
+    private Person? PersonData { get; set; } //Lagrar deserialiserad persondata från JSON
+    private string? ErrorMessage { get; set; } //Lagrar felmeddelande
 
+
+    //Metod som körs när komponenten initialiseras
     protected override async Task OnInitializedAsync()
     {
-        //debugg
-        Console.WriteLine("OnInitializedAsync körs");
 
         try
         {
@@ -42,25 +43,17 @@ else
             string json = await Http.GetStringAsync("/sample-data/sample.json");
 
 
-            //debugg
-            Console.WriteLine(json);
-
-            //Deserialiserar JSON. Konverterar JSON-strängen till C#-modellen Person
+            //Deserialiserar JSON till C#-modellen Person
             PersonData = System.Text.Json.JsonSerializer.Deserialize<Person>(json);
-
-            //debugg
-            Console.WriteLine("PersonData: " + PersonData?.name);
 
             if (PersonData == null)
             {
-                Console.WriteLine("Deserialisering misslyckades.");
+                ErrorMessage = "Deserialisering misslyckades.";
             }
             else
             {
-                Console.WriteLine("Deserialisering lyckades.");
+                ErrorMessage = null; //Om deserialisering lyckads, rensa tidigare felmeddelanden
             }
-
-            StateHasChanged();
 
         }
         catch (Exception ex)
@@ -70,14 +63,16 @@ else
             Console.WriteLine($"Error: {ex.Message}");
             Console.WriteLine($"Stack Trace: {ex.StackTrace}"); ;
         }
+        //Anropar StateHasChanged för att uppdatera UI
+        StateHasChanged();
     }
 
     //Modell för att representera strukturen av JSON-datan
     private class Person
     {
-        public string? name { get; set; }
-        public int? age { get; set; }
-        public List<string> hobbies { get; set; } = new();
+        public string? Name { get; set; }
+        public int? Age { get; set; }
+        public List<string> Hobbies { get; set; } = new();
     }
 
 }

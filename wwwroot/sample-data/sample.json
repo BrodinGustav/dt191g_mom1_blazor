@@ -1,5 +1,5 @@
 {
-    "name": "Gustav Brodin",
-    "age": 37,
-    "hobbies": ["Teckna", "Musik", "Vandra"]
+    "Name": "Gustav Brodin",
+    "Age": 37,
+    "Hobbies": ["Teckna", "Musik", "Vandra"]
   }

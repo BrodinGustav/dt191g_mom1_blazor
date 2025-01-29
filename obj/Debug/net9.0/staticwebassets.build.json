@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3i+Sx4kNLyfptNmsoY/xfASLMSOHWApQwX38Dw821WU=",
+  "Hash": "w6tfnU5FicJLPVoKrwfiRPLI21AFfBPCWyF+/zqE4y8=",
   "Source": "dt191g_mom1_blazor(2)",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "ys9nc5za8m",
-      "Integrity": "nv6ItReo0uKcOpxK1ZI2u9tozhf79hwjGm6sb5NAClA=",
+      "Fingerprint": "5jhvy97cds",
+      "Integrity": "gQC/yh0Qnnh1RFHT/HXXv0nvRZoVQNEyJ12oSkGcEEY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "d0yj8h9o5e",
-      "Integrity": "E1FVG9aszP6r+xwaF6mqGlDFNdb3VLnSacIAbdR5olA=",
+      "Fingerprint": "m432wanhxx",
+      "Integrity": "qkv+y8KR2zOKAbO70AbqEwtvOD6w9USMDo0AfAszCLA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\dt191g_mom1_blazor(2).pdb"
@@ -220,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "0o466028st",
-      "Integrity": "4LwBRaam2+bQ00y/2O2Pc3xGBSAiptrxsuKaYIZyxoo=",
+      "Fingerprint": "k2codtm6jb",
+      "Integrity": "HPRyT/VrqY9S3KVv4q+RfyCJaqtxlBxyu+p+OQgFVWo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\webcil\\dt191g_mom1_blazor(2).wasm"
@@ -5309,7 +5309,7 @@
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Security.Cryptography.Primitives.wasm"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\8ek1bpyi7p-ys9nc5za8m.gz",
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\8ek1bpyi7p-5jhvy97cds.gz",
       "SourceId": "dt191g_mom1_blazor(2)",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\",
@@ -5323,8 +5323,8 @@
       "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "tlpa4p4azf",
-      "Integrity": "3xeOmS8ReeGeQni9jWaqyAd2QbHhVI+FXn2e9Fjuic4=",
+      "Fingerprint": "14vsgt7ng8",
+      "Integrity": "f59bBpZsNUHt2DimecHQ+CB/853bwnGj8L3XZ9HsZzY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -5645,12 +5645,12 @@
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Numerics.Vectors.wasm"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\bfiapfkgn0-0o466028st.gz",
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\bfiapfkgn0-k2codtm6jb.gz",
       "SourceId": "dt191g_mom1_blazor(2)",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dt191g_mom1_blazor(2)#[.{fingerprint=0o466028st}]!.wasm.gz",
+      "RelativePath": "_framework/dt191g_mom1_blazor(2)#[.{fingerprint=k2codtm6jb}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5659,8 +5659,8 @@
       "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dt191g_mom1_blazor(2).wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "8tad1h5k8p",
-      "Integrity": "BLOTcg3f9/7Vnbb1nvyw29N7wvTJbKW+oau/T6F/Wbg=",
+      "Fingerprint": "muuovo9782",
+      "Integrity": "0h653JrhNqSBdiJp7Vg3WsQ0xaxoKe4CaqxTDET3XuY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dt191g_mom1_blazor(2).wasm"
@@ -7052,12 +7052,12 @@
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\WindowsBase.wasm"
     },
     {
-      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\m5dyn0uvzq-d0yj8h9o5e.gz",
+      "Identity": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\m5dyn0uvzq-m432wanhxx.gz",
       "SourceId": "dt191g_mom1_blazor(2)",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dt191g_mom1_blazor(2)#[.{fingerprint=d0yj8h9o5e}]!.pdb.gz",
+      "RelativePath": "_framework/dt191g_mom1_blazor(2)#[.{fingerprint=m432wanhxx}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7066,8 +7066,8 @@
       "RelatedAsset": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dt191g_mom1_blazor(2).pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "k9un8edup1",
-      "Integrity": "CLeAf+utTsKvrG7DPwVQjtGbSq3pUtWxaYli3yFBeCM=",
+      "Fingerprint": "brvb1sk280",
+      "Integrity": "h8ZtA3pmE34QRb5tqHkLydjOTY37igCcA1sKJvHJyqs=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dt191g_mom1_blazor(2).pdb"
@@ -8899,11 +8899,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nv6ItReo0uKcOpxK1ZI2u9tozhf79hwjGm6sb5NAClA=\""
+          "Value": "\"gQC/yh0Qnnh1RFHT/HXXv0nvRZoVQNEyJ12oSkGcEEY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 15:36:58 GMT"
+          "Value": "Wed, 29 Jan 2025 08:14:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8913,18 +8913,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nv6ItReo0uKcOpxK1ZI2u9tozhf79hwjGm6sb5NAClA="
+          "Value": "sha256-gQC/yh0Qnnh1RFHT/HXXv0nvRZoVQNEyJ12oSkGcEEY="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\8ek1bpyi7p-ys9nc5za8m.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\8ek1bpyi7p-5jhvy97cds.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000081056983"
+          "Quality": "0,000081050413"
         }
       ],
       "ResponseHeaders": [
@@ -8934,15 +8934,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12336"
+          "Value": "12337"
         },
         {
           "Name": "ETag",
-          "Value": "\"3xeOmS8ReeGeQni9jWaqyAd2QbHhVI+FXn2e9Fjuic4=\""
+          "Value": "\"f59bBpZsNUHt2DimecHQ+CB/853bwnGj8L3XZ9HsZzY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 15:36:22 GMT"
+          "Value": "Wed, 29 Jan 2025 08:11:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8962,19 +8962,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"nv6ItReo0uKcOpxK1ZI2u9tozhf79hwjGm6sb5NAClA=\""
+          "Value": "W/\"gQC/yh0Qnnh1RFHT/HXXv0nvRZoVQNEyJ12oSkGcEEY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nv6ItReo0uKcOpxK1ZI2u9tozhf79hwjGm6sb5NAClA="
+          "Value": "sha256-gQC/yh0Qnnh1RFHT/HXXv0nvRZoVQNEyJ12oSkGcEEY="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\8ek1bpyi7p-ys9nc5za8m.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\8ek1bpyi7p-5jhvy97cds.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8983,7 +8983,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12336"
+          "Value": "12337"
         },
         {
           "Name": "Content-Type",
@@ -8991,11 +8991,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3xeOmS8ReeGeQni9jWaqyAd2QbHhVI+FXn2e9Fjuic4=\""
+          "Value": "\"f59bBpZsNUHt2DimecHQ+CB/853bwnGj8L3XZ9HsZzY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 15:36:22 GMT"
+          "Value": "Wed, 29 Jan 2025 08:11:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9013,7 +9013,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3xeOmS8ReeGeQni9jWaqyAd2QbHhVI+FXn2e9Fjuic4="
+          "Value": "sha256-f59bBpZsNUHt2DimecHQ+CB/853bwnGj8L3XZ9HsZzY="
         }
       ]
     },
@@ -10943,7 +10943,7 @@
       ]
     },
     {
-      "Route": "_framework/dt191g_mom1_blazor(2).0o466028st.wasm",
+      "Route": "_framework/dt191g_mom1_blazor(2).k2codtm6jb.wasm",
       "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dt191g_mom1_blazor(2).wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -10961,11 +10961,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4LwBRaam2+bQ00y/2O2Pc3xGBSAiptrxsuKaYIZyxoo=\""
+          "Value": "\"HPRyT/VrqY9S3KVv4q+RfyCJaqtxlBxyu+p+OQgFVWo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 14:11:17 GMT"
+          "Value": "Wed, 29 Jan 2025 08:14:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10975,7 +10975,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0o466028st"
+          "Value": "k2codtm6jb"
         },
         {
           "Name": "label",
@@ -10983,18 +10983,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4LwBRaam2+bQ00y/2O2Pc3xGBSAiptrxsuKaYIZyxoo="
+          "Value": "sha256-HPRyT/VrqY9S3KVv4q+RfyCJaqtxlBxyu+p+OQgFVWo="
         }
       ]
     },
     {
-      "Route": "_framework/dt191g_mom1_blazor(2).0o466028st.wasm",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\bfiapfkgn0-0o466028st.gz",
+      "Route": "_framework/dt191g_mom1_blazor(2).k2codtm6jb.wasm",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\bfiapfkgn0-k2codtm6jb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000109865964"
+          "Quality": "0,000109541023"
         }
       ],
       "ResponseHeaders": [
@@ -11004,15 +11004,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9101"
+          "Value": "9128"
         },
         {
           "Name": "ETag",
-          "Value": "\"BLOTcg3f9/7Vnbb1nvyw29N7wvTJbKW+oau/T6F/Wbg=\""
+          "Value": "\"0h653JrhNqSBdiJp7Vg3WsQ0xaxoKe4CaqxTDET3XuY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 14:11:18 GMT"
+          "Value": "Wed, 29 Jan 2025 08:14:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11032,13 +11032,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4LwBRaam2+bQ00y/2O2Pc3xGBSAiptrxsuKaYIZyxoo=\""
+          "Value": "W/\"HPRyT/VrqY9S3KVv4q+RfyCJaqtxlBxyu+p+OQgFVWo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0o466028st"
+          "Value": "k2codtm6jb"
         },
         {
           "Name": "label",
@@ -11046,13 +11046,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4LwBRaam2+bQ00y/2O2Pc3xGBSAiptrxsuKaYIZyxoo="
+          "Value": "sha256-HPRyT/VrqY9S3KVv4q+RfyCJaqtxlBxyu+p+OQgFVWo="
         }
       ]
     },
     {
-      "Route": "_framework/dt191g_mom1_blazor(2).0o466028st.wasm.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\bfiapfkgn0-0o466028st.gz",
+      "Route": "_framework/dt191g_mom1_blazor(2).k2codtm6jb.wasm.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\bfiapfkgn0-k2codtm6jb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11061,7 +11061,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9101"
+          "Value": "9128"
         },
         {
           "Name": "Content-Type",
@@ -11069,11 +11069,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BLOTcg3f9/7Vnbb1nvyw29N7wvTJbKW+oau/T6F/Wbg=\""
+          "Value": "\"0h653JrhNqSBdiJp7Vg3WsQ0xaxoKe4CaqxTDET3XuY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 14:11:18 GMT"
+          "Value": "Wed, 29 Jan 2025 08:14:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11091,7 +11091,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0o466028st"
+          "Value": "k2codtm6jb"
         },
         {
           "Name": "label",
@@ -11099,12 +11099,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BLOTcg3f9/7Vnbb1nvyw29N7wvTJbKW+oau/T6F/Wbg="
+          "Value": "sha256-0h653JrhNqSBdiJp7Vg3WsQ0xaxoKe4CaqxTDET3XuY="
         }
       ]
     },
     {
-      "Route": "_framework/dt191g_mom1_blazor(2).d0yj8h9o5e.pdb",
+      "Route": "_framework/dt191g_mom1_blazor(2).m432wanhxx.pdb",
       "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dt191g_mom1_blazor(2).pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -11114,7 +11114,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26064"
+          "Value": "26124"
         },
         {
           "Name": "Content-Type",
@@ -11122,11 +11122,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"E1FVG9aszP6r+xwaF6mqGlDFNdb3VLnSacIAbdR5olA=\""
+          "Value": "\"qkv+y8KR2zOKAbO70AbqEwtvOD6w9USMDo0AfAszCLA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 14:11:17 GMT"
+          "Value": "Wed, 29 Jan 2025 08:14:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11136,7 +11136,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "d0yj8h9o5e"
+          "Value": "m432wanhxx"
         },
         {
           "Name": "label",
@@ -11144,18 +11144,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-E1FVG9aszP6r+xwaF6mqGlDFNdb3VLnSacIAbdR5olA="
+          "Value": "sha256-qkv+y8KR2zOKAbO70AbqEwtvOD6w9USMDo0AfAszCLA="
         }
       ]
     },
     {
-      "Route": "_framework/dt191g_mom1_blazor(2).d0yj8h9o5e.pdb",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\m5dyn0uvzq-d0yj8h9o5e.gz",
+      "Route": "_framework/dt191g_mom1_blazor(2).m432wanhxx.pdb",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\m5dyn0uvzq-m432wanhxx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000052099614"
+          "Quality": "0,000052021016"
         }
       ],
       "ResponseHeaders": [
@@ -11165,15 +11165,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19193"
+          "Value": "19222"
         },
         {
           "Name": "ETag",
-          "Value": "\"CLeAf+utTsKvrG7DPwVQjtGbSq3pUtWxaYli3yFBeCM=\""
+          "Value": "\"h8ZtA3pmE34QRb5tqHkLydjOTY37igCcA1sKJvHJyqs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 14:11:18 GMT"
+          "Value": "Wed, 29 Jan 2025 08:14:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11193,13 +11193,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"E1FVG9aszP6r+xwaF6mqGlDFNdb3VLnSacIAbdR5olA=\""
+          "Value": "W/\"qkv+y8KR2zOKAbO70AbqEwtvOD6w9USMDo0AfAszCLA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "d0yj8h9o5e"
+          "Value": "m432wanhxx"
         },
         {
           "Name": "label",
@@ -11207,13 +11207,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-E1FVG9aszP6r+xwaF6mqGlDFNdb3VLnSacIAbdR5olA="
+          "Value": "sha256-qkv+y8KR2zOKAbO70AbqEwtvOD6w9USMDo0AfAszCLA="
         }
       ]
     },
     {
-      "Route": "_framework/dt191g_mom1_blazor(2).d0yj8h9o5e.pdb.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\m5dyn0uvzq-d0yj8h9o5e.gz",
+      "Route": "_framework/dt191g_mom1_blazor(2).m432wanhxx.pdb.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\m5dyn0uvzq-m432wanhxx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11222,7 +11222,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19193"
+          "Value": "19222"
         },
         {
           "Name": "Content-Type",
@@ -11230,11 +11230,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CLeAf+utTsKvrG7DPwVQjtGbSq3pUtWxaYli3yFBeCM=\""
+          "Value": "\"h8ZtA3pmE34QRb5tqHkLydjOTY37igCcA1sKJvHJyqs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 14:11:18 GMT"
+          "Value": "Wed, 29 Jan 2025 08:14:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11252,7 +11252,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "d0yj8h9o5e"
+          "Value": "m432wanhxx"
         },
         {
           "Name": "label",
@@ -11260,7 +11260,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CLeAf+utTsKvrG7DPwVQjtGbSq3pUtWxaYli3yFBeCM="
+          "Value": "sha256-h8ZtA3pmE34QRb5tqHkLydjOTY37igCcA1sKJvHJyqs="
         }
       ]
     },
@@ -11275,7 +11275,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26064"
+          "Value": "26124"
         },
         {
           "Name": "Content-Type",
@@ -11283,11 +11283,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"E1FVG9aszP6r+xwaF6mqGlDFNdb3VLnSacIAbdR5olA=\""
+          "Value": "\"qkv+y8KR2zOKAbO70AbqEwtvOD6w9USMDo0AfAszCLA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 14:11:17 GMT"
+          "Value": "Wed, 29 Jan 2025 08:14:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11297,18 +11297,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-E1FVG9aszP6r+xwaF6mqGlDFNdb3VLnSacIAbdR5olA="
+          "Value": "sha256-qkv+y8KR2zOKAbO70AbqEwtvOD6w9USMDo0AfAszCLA="
         }
       ]
     },
     {
       "Route": "_framework/dt191g_mom1_blazor(2).pdb",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\m5dyn0uvzq-d0yj8h9o5e.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\m5dyn0uvzq-m432wanhxx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000052099614"
+          "Quality": "0,000052021016"
         }
       ],
       "ResponseHeaders": [
@@ -11318,15 +11318,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19193"
+          "Value": "19222"
         },
         {
           "Name": "ETag",
-          "Value": "\"CLeAf+utTsKvrG7DPwVQjtGbSq3pUtWxaYli3yFBeCM=\""
+          "Value": "\"h8ZtA3pmE34QRb5tqHkLydjOTY37igCcA1sKJvHJyqs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 14:11:18 GMT"
+          "Value": "Wed, 29 Jan 2025 08:14:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11346,19 +11346,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"E1FVG9aszP6r+xwaF6mqGlDFNdb3VLnSacIAbdR5olA=\""
+          "Value": "W/\"qkv+y8KR2zOKAbO70AbqEwtvOD6w9USMDo0AfAszCLA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-E1FVG9aszP6r+xwaF6mqGlDFNdb3VLnSacIAbdR5olA="
+          "Value": "sha256-qkv+y8KR2zOKAbO70AbqEwtvOD6w9USMDo0AfAszCLA="
         }
       ]
     },
     {
       "Route": "_framework/dt191g_mom1_blazor(2).pdb.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\m5dyn0uvzq-d0yj8h9o5e.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\m5dyn0uvzq-m432wanhxx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11367,7 +11367,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19193"
+          "Value": "19222"
         },
         {
           "Name": "Content-Type",
@@ -11375,11 +11375,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CLeAf+utTsKvrG7DPwVQjtGbSq3pUtWxaYli3yFBeCM=\""
+          "Value": "\"h8ZtA3pmE34QRb5tqHkLydjOTY37igCcA1sKJvHJyqs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 14:11:18 GMT"
+          "Value": "Wed, 29 Jan 2025 08:14:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11397,7 +11397,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CLeAf+utTsKvrG7DPwVQjtGbSq3pUtWxaYli3yFBeCM="
+          "Value": "sha256-h8ZtA3pmE34QRb5tqHkLydjOTY37igCcA1sKJvHJyqs="
         }
       ]
     },
@@ -11420,11 +11420,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4LwBRaam2+bQ00y/2O2Pc3xGBSAiptrxsuKaYIZyxoo=\""
+          "Value": "\"HPRyT/VrqY9S3KVv4q+RfyCJaqtxlBxyu+p+OQgFVWo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 14:11:17 GMT"
+          "Value": "Wed, 29 Jan 2025 08:14:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11434,18 +11434,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4LwBRaam2+bQ00y/2O2Pc3xGBSAiptrxsuKaYIZyxoo="
+          "Value": "sha256-HPRyT/VrqY9S3KVv4q+RfyCJaqtxlBxyu+p+OQgFVWo="
         }
       ]
     },
     {
       "Route": "_framework/dt191g_mom1_blazor(2).wasm",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\bfiapfkgn0-0o466028st.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\bfiapfkgn0-k2codtm6jb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000109865964"
+          "Quality": "0,000109541023"
         }
       ],
       "ResponseHeaders": [
@@ -11455,15 +11455,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9101"
+          "Value": "9128"
         },
         {
           "Name": "ETag",
-          "Value": "\"BLOTcg3f9/7Vnbb1nvyw29N7wvTJbKW+oau/T6F/Wbg=\""
+          "Value": "\"0h653JrhNqSBdiJp7Vg3WsQ0xaxoKe4CaqxTDET3XuY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 14:11:18 GMT"
+          "Value": "Wed, 29 Jan 2025 08:14:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11483,19 +11483,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4LwBRaam2+bQ00y/2O2Pc3xGBSAiptrxsuKaYIZyxoo=\""
+          "Value": "W/\"HPRyT/VrqY9S3KVv4q+RfyCJaqtxlBxyu+p+OQgFVWo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4LwBRaam2+bQ00y/2O2Pc3xGBSAiptrxsuKaYIZyxoo="
+          "Value": "sha256-HPRyT/VrqY9S3KVv4q+RfyCJaqtxlBxyu+p+OQgFVWo="
         }
       ]
     },
     {
       "Route": "_framework/dt191g_mom1_blazor(2).wasm.gz",
-      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\bfiapfkgn0-0o466028st.gz",
+      "AssetFile": "C:\\Utbildning\\d191g_ASPNET\\dt191g_mom1_blazor\\obj\\Debug\\net9.0\\compressed\\bfiapfkgn0-k2codtm6jb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11504,7 +11504,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9101"
+          "Value": "9128"
         },
         {
           "Name": "Content-Type",
@@ -11512,11 +11512,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BLOTcg3f9/7Vnbb1nvyw29N7wvTJbKW+oau/T6F/Wbg=\""
+          "Value": "\"0h653JrhNqSBdiJp7Vg3WsQ0xaxoKe4CaqxTDET3XuY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 14:11:18 GMT"
+          "Value": "Wed, 29 Jan 2025 08:14:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11534,7 +11534,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BLOTcg3f9/7Vnbb1nvyw29N7wvTJbKW+oau/T6F/Wbg="
+          "Value": "sha256-0h653JrhNqSBdiJp7Vg3WsQ0xaxoKe4CaqxTDET3XuY="
         }
       ]
     },
